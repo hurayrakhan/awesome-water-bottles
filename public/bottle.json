@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "name": "HydroMax Sport",
+      "material": "Stainless Steel",
+      "capacity": "750ml",
+      "color": "Black",
+      "price": 24.99,
+      "inStock": true,
+      "imageUrl": "https://source.unsplash.com/featured/?black,bottle"
+    },
+    {
+      "id": 2,
+      "name": "EcoSip Classic",
+      "material": "Glass",
+      "capacity": "500ml",
+      "color": "Clear",
+      "price": 15.5,
+      "inStock": true,
+      "imageUrl": "https://source.unsplash.com/featured/?glass,bottle"
+    },
+    {
+      "id": 3,
+      "name": "AquaMate Flex",
+      "material": "Plastic",
+      "capacity": "1000ml",
+      "color": "Blue",
+      "price": 9.99,
+      "inStock": false,
+      "imageUrl": "https://source.unsplash.com/featured/?blue,plastic,bottle"
+    },
+    {
+      "id": 4,
+      "name": "ThermoGuard",
+      "material": "Insulated Steel",
+      "capacity": "600ml",
+      "color": "Silver",
+      "price": 29.99,
+      "inStock": true,
+      "imageUrl": "https://source.unsplash.com/featured/?silver,steel,bottle"
+    },
+    {
+      "id": 5,
+      "name": "SipSafe Mini",
+      "material": "BPA-Free Plastic",
+      "capacity": "350ml",
+      "color": "Pink",
+      "price": 7.25,
+      "inStock": true,
+      "imageUrl": "https://source.unsplash.com/featured/?pink,bottle"
+    },
+    {
+      "id": 6,
+      "name": "ChillMate",
+      "material": "Aluminum",
+      "capacity": "750ml",
+      "color": "Red",
+      "price": 18.75,
+      "inStock": false,
+      "imageUrl": "https://source.unsplash.com/featured/?red,metal,bottle"
+    },
+    {
+      "id": 7,
+      "name": "NatureFlow",
+      "material": "Biodegradable Plastic",
+      "capacity": "500ml",
+      "color": "Green",
+      "price": 11.0,
+      "inStock": true,
+      "imageUrl": "https://source.unsplash.com/featured/?green,bottle"
+    },
+    {
+      "id": 8,
+      "name": "UrbanHydro",
+      "material": "Tritan",
+      "capacity": "650ml",
+      "color": "Gray",
+      "price": 13.5,
+      "inStock": true,
+      "imageUrl": "https://source.unsplash.com/featured/?gray,bottle"
+    },
+    {
+      "id": 9,
+      "name": "CrystalSip",
+      "material": "Glass",
+      "capacity": "800ml",
+      "color": "Teal",
+      "price": 21.99,
+      "inStock": false,
+      "imageUrl": "https://source.unsplash.com/featured/?teal,glass,bottle"
+    },
+    {
+      "id": 10,
+      "name": "ZenBottle Pro",
+      "material": "Stainless Steel",
+      "capacity": "1000ml",
+      "color": "White",
+      "price": 32.0,
+      "inStock": true,
+      "imageUrl": "https://source.unsplash.com/featured/?white,steel,bottle"
+    }
+  ]
+
+  
