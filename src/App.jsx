@@ -8,8 +8,8 @@ function App() {
     .then(res => res.json());
   return (
     <>
-      <h1>Hello World</h1>
-      <Suspense fallback={<p>Loading...</p>}>
+      <h1 style={{textAlign:'center'}}>Hello World</h1>
+      <Suspense fallback={<p style={{textAlign:'center', placeItems:'center'}}>Loading...</p>}>
         <Bottles bottlesPromise={bottlesPromise}></Bottles>
       </Suspense>
     </>
